@@ -1,0 +1,5 @@
+{
+  "name": "LUVIEL Fluxo",
+  "description": "Sistema comercial offline de alto desempenho para gestão de estoque, vendas e fluxo de caixa, com arquitetura robusta e persistência local.",
+  "requestFramePermissions": []
+}
